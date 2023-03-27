@@ -1,0 +1,49 @@
+#
+#
+#
+#
+
+
+CC=gcc
+CC_OPTS=-g -DDO_WMA
+AMP=./libAMP.a
+MAD=../libmad/libmad.a
+WMA=./libwmacodec.a
+#LDFLAGS=-lpthread -lm $(AMP)
+#LDFLAGS=-lpthread -lm $(MAD) $(AMP)
+LDFLAGS=-lpthread -lm $(WMA) $(AMP)
+
+
+
+CROSS ?= arm-uclinux-elf
+
+ifdef IPOD
+CC = $(CROSS)-gcc
+CC_OPTS=-g -DIPOD
+
+LDFLAGS= $(MAD) -elf2flt 
+endif
+
+all: apd
+
+clean:
+	rm -rf *.o apd
+
+
+apd: apd.o apdpcm.o apdutil.o mp3.o wma.o
+	$(CC) $(CC_OPTS) -o apd apd.o apdpcm.o apdutil.o wma.o $(LDFLAGS) 
+
+apd.o: apd.c apd.h
+	$(CC) $(CC_OPTS) -c $< -o $@
+
+apdpcm.o: apdpcm.c apdpcm.h
+	$(CC) $(CC_OPTS) -c $< -o $@
+
+apdutil.o: apdutil.c apdutil.h
+	$(CC) $(CC_OPTS) -c $< -o $@
+
+mp3.o: mp3.c 
+	$(CC) $(CC_OPTS) -c $< -o $@
+
+wma.o: wma.c 
+	$(CC) $(CC_OPTS) -c $< -o $@

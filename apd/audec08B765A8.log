@@ -1,0 +1,9949 @@
+audecInit(0x0161, 2, 44100, 16002, 5945, 16, 00000003, 000F, 44100, 16, 2)
+audecInput(128) 0
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...768 samples ready
+audecGetPCM(1024)
+...768 @ 768
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...1280 samples ready
+audecGetPCM(1024)
+...1024 @ 1792
+audecGetPCM(1024)
+...256 @ 2048
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 3072
+audecGetPCM(1024)
+...1024 @ 4096
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 5120
+audecGetPCM(1024)
+...1024 @ 6144
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 7168
+audecGetPCM(1024)
+...1024 @ 8192
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 9216
+audecGetPCM(1024)
+...1024 @ 10240
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 11264
+audecGetPCM(1024)
+...1024 @ 12288
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 13312
+audecGetPCM(1024)
+...1024 @ 14336
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 325
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 15356
+audecGetPCM(1024)
+...1024 @ 16380
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 17404
+audecGetPCM(1024)
+...1024 @ 18428
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 19452
+audecGetPCM(1024)
+...1024 @ 20476
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 21500
+audecGetPCM(1024)
+...1024 @ 22524
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 23548
+audecGetPCM(1024)
+...1024 @ 24572
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 25596
+audecGetPCM(1024)
+...1024 @ 26620
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 27644
+audecGetPCM(1024)
+...1024 @ 28668
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 29692
+audecGetPCM(1024)
+...1024 @ 30716
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 696
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 31717
+audecGetPCM(1024)
+...1024 @ 32741
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 33765
+audecGetPCM(1024)
+...1024 @ 34789
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 35813
+audecGetPCM(1024)
+...1024 @ 36837
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 37861
+audecGetPCM(1024)
+...1024 @ 38885
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 39909
+audecGetPCM(1024)
+...1024 @ 40933
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 41957
+audecGetPCM(1024)
+...1024 @ 42981
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 44005
+audecGetPCM(1024)
+...1024 @ 45029
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 46053
+audecGetPCM(1024)
+...1024 @ 47077
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 1068
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 48122
+audecGetPCM(1024)
+...1024 @ 49146
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 50170
+audecGetPCM(1024)
+...1024 @ 51194
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 52218
+audecGetPCM(1024)
+...1024 @ 53242
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 54266
+audecGetPCM(1024)
+...1024 @ 55290
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 56314
+audecGetPCM(1024)
+...1024 @ 57338
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 58362
+audecGetPCM(1024)
+...1024 @ 59386
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 60410
+audecGetPCM(1024)
+...1024 @ 61434
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 62458
+audecGetPCM(1024)
+...1024 @ 63482
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 1439
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 64483
+audecGetPCM(1024)
+...1024 @ 65507
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 66531
+audecGetPCM(1024)
+...1024 @ 67555
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 68579
+audecGetPCM(1024)
+...1024 @ 69603
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 70627
+audecGetPCM(1024)
+...1024 @ 71651
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 72675
+audecGetPCM(1024)
+...1024 @ 73699
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 74723
+audecGetPCM(1024)
+...1024 @ 75747
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 76771
+audecGetPCM(1024)
+...1024 @ 77795
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 78819
+audecGetPCM(1024)
+...1024 @ 79843
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 1811
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 80889
+audecGetPCM(1024)
+...1024 @ 81913
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2560 samples ready
+audecGetPCM(1024)
+...1024 @ 82937
+audecGetPCM(1024)
+...1024 @ 83961
+audecGetPCM(1024)
+...512 @ 84473
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...2432 samples ready
+audecGetPCM(1024)
+...1024 @ 85497
+audecGetPCM(1024)
+...1024 @ 86521
+audecGetPCM(1024)
+...384 @ 86905
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2112 samples ready
+audecGetPCM(1024)
+...1024 @ 87929
+audecGetPCM(1024)
+...1024 @ 88953
+audecGetPCM(1024)
+...64 @ 89017
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...1600 samples ready
+audecGetPCM(1024)
+...1024 @ 90041
+audecGetPCM(1024)
+...576 @ 90617
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...1536 samples ready
+audecGetPCM(1024)
+...1024 @ 91641
+audecGetPCM(1024)
+...512 @ 92153
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 93177
+audecGetPCM(1024)
+...1024 @ 94201
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 95225
+audecGetPCM(1024)
+...1024 @ 96249
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 2182
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 97250
+audecGetPCM(1024)
+...1024 @ 98274
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 99298
+audecGetPCM(1024)
+...1024 @ 100322
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 101346
+audecGetPCM(1024)
+...1024 @ 102370
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 103394
+audecGetPCM(1024)
+...1024 @ 104418
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 105442
+audecGetPCM(1024)
+...1024 @ 106466
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 107490
+audecGetPCM(1024)
+...1024 @ 108514
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 109538
+audecGetPCM(1024)
+...1024 @ 110562
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 111586
+audecGetPCM(1024)
+...1024 @ 112610
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 2554
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 113655
+audecGetPCM(1024)
+...1024 @ 114679
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 115703
+audecGetPCM(1024)
+...1024 @ 116727
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 117751
+audecGetPCM(1024)
+...1024 @ 118775
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 119799
+audecGetPCM(1024)
+...1024 @ 120823
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 121847
+audecGetPCM(1024)
+...1024 @ 122871
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 123895
+audecGetPCM(1024)
+...1024 @ 124919
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 125943
+audecGetPCM(1024)
+...1024 @ 126967
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 127991
+audecGetPCM(1024)
+...1024 @ 129015
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 2925
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 130016
+audecGetPCM(1024)
+...1024 @ 131040
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 132064
+audecGetPCM(1024)
+...1024 @ 133088
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 134112
+audecGetPCM(1024)
+...1024 @ 135136
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 136160
+audecGetPCM(1024)
+...1024 @ 137184
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 138208
+audecGetPCM(1024)
+...1024 @ 139232
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 140256
+audecGetPCM(1024)
+...1024 @ 141280
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 142304
+audecGetPCM(1024)
+...1024 @ 143328
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 144352
+audecGetPCM(1024)
+...1024 @ 145376
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 3297
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 146421
+audecGetPCM(1024)
+...1024 @ 147445
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 148469
+audecGetPCM(1024)
+...1024 @ 149493
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 150517
+audecGetPCM(1024)
+...1024 @ 151541
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 152565
+audecGetPCM(1024)
+...1024 @ 153589
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 154613
+audecGetPCM(1024)
+...1024 @ 155637
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 156661
+audecGetPCM(1024)
+...1024 @ 157685
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 158709
+audecGetPCM(1024)
+...1024 @ 159733
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 160757
+audecGetPCM(1024)
+...1024 @ 161781
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 3668
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 162782
+audecGetPCM(1024)
+...1024 @ 163806
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 164830
+audecGetPCM(1024)
+...1024 @ 165854
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 166878
+audecGetPCM(1024)
+...1024 @ 167902
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 168926
+audecGetPCM(1024)
+...1024 @ 169950
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 170974
+audecGetPCM(1024)
+...1024 @ 171998
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2944 samples ready
+audecGetPCM(1024)
+...1024 @ 173022
+audecGetPCM(1024)
+...1024 @ 174046
+audecGetPCM(1024)
+...896 @ 174942
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...1664 samples ready
+audecGetPCM(1024)
+...1024 @ 175966
+audecGetPCM(1024)
+...640 @ 176606
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...1536 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 177630
+audecGetPCM(1024)
+...512 @ 178142
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 4040
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 179188
+audecGetPCM(1024)
+...1024 @ 180212
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 181236
+audecGetPCM(1024)
+...1024 @ 182260
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 183284
+audecGetPCM(1024)
+...1024 @ 184308
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 185332
+audecGetPCM(1024)
+...1024 @ 186356
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 187380
+audecGetPCM(1024)
+...1024 @ 188404
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 189428
+audecGetPCM(1024)
+...1024 @ 190452
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 191476
+audecGetPCM(1024)
+...1024 @ 192500
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 193524
+audecGetPCM(1024)
+...1024 @ 194548
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 4411
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 195549
+audecGetPCM(1024)
+...1024 @ 196573
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 197597
+audecGetPCM(1024)
+...1024 @ 198621
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 199645
+audecGetPCM(1024)
+...1024 @ 200669
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 201693
+audecGetPCM(1024)
+...1024 @ 202717
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 203741
+audecGetPCM(1024)
+...1024 @ 204765
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 205789
+audecGetPCM(1024)
+...1024 @ 206813
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 207837
+audecGetPCM(1024)
+...1024 @ 208861
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 209885
+audecGetPCM(1024)
+...1024 @ 210909
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 4783
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 211954
+audecGetPCM(1024)
+...1024 @ 212978
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 214002
+audecGetPCM(1024)
+...1024 @ 215026
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 216050
+audecGetPCM(1024)
+...1024 @ 217074
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 218098
+audecGetPCM(1024)
+...1024 @ 219122
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 220146
+audecGetPCM(1024)
+...1024 @ 221170
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 222194
+audecGetPCM(1024)
+...1024 @ 223218
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 224242
+audecGetPCM(1024)
+...1024 @ 225266
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 226290
+audecGetPCM(1024)
+...1024 @ 227314
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 5154
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 228315
+audecGetPCM(1024)
+...1024 @ 229339
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 230363
+audecGetPCM(1024)
+...1024 @ 231387
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 232411
+audecGetPCM(1024)
+...1024 @ 233435
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 234459
+audecGetPCM(1024)
+...1024 @ 235483
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 236507
+audecGetPCM(1024)
+...1024 @ 237531
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 238555
+audecGetPCM(1024)
+...1024 @ 239579
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 240603
+audecGetPCM(1024)
+...1024 @ 241627
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 242651
+audecGetPCM(1024)
+...1024 @ 243675
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 5526
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 244720
+audecGetPCM(1024)
+...1024 @ 245744
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 246768
+audecGetPCM(1024)
+...1024 @ 247792
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 248816
+audecGetPCM(1024)
+...1024 @ 249840
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 250864
+audecGetPCM(1024)
+...1024 @ 251888
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 252912
+audecGetPCM(1024)
+...1024 @ 253936
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 254960
+audecGetPCM(1024)
+...1024 @ 255984
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 257008
+audecGetPCM(1024)
+...1024 @ 258032
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2816 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 259056
+audecGetPCM(1024)
+...1024 @ 260080
+audecGetPCM(1024)
+...768 @ 260848
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 5915
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 261875
+audecGetPCM(1024)
+...1024 @ 262899
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2176 samples ready
+audecGetPCM(1024)
+...1024 @ 263923
+audecGetPCM(1024)
+...1024 @ 264947
+audecGetPCM(1024)
+...128 @ 265075
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...1152 samples ready
+audecGetPCM(1024)
+...1024 @ 266099
+audecGetPCM(1024)
+...128 @ 266227
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 267251
+audecGetPCM(1024)
+...1024 @ 268275
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 269299
+audecGetPCM(1024)
+...1024 @ 270323
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 271347
+audecGetPCM(1024)
+...1024 @ 272371
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 273395
+audecGetPCM(1024)
+...1024 @ 274419
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 275443
+audecGetPCM(1024)
+...1024 @ 276467
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 6269
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 277486
+audecGetPCM(1024)
+...1024 @ 278510
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 279534
+audecGetPCM(1024)
+...1024 @ 280558
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 281582
+audecGetPCM(1024)
+...1024 @ 282606
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 283630
+audecGetPCM(1024)
+...1024 @ 284654
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 285678
+audecGetPCM(1024)
+...1024 @ 286702
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 287726
+audecGetPCM(1024)
+...1024 @ 288750
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 289774
+audecGetPCM(1024)
+...1024 @ 290798
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 291822
+audecGetPCM(1024)
+...1024 @ 292846
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 6640
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 293848
+audecGetPCM(1024)
+...1024 @ 294872
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 295896
+audecGetPCM(1024)
+...1024 @ 296920
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 297944
+audecGetPCM(1024)
+...1024 @ 298968
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 299992
+audecGetPCM(1024)
+...1024 @ 301016
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 302040
+audecGetPCM(1024)
+...1024 @ 303064
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 304088
+audecGetPCM(1024)
+...1024 @ 305112
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 306136
+audecGetPCM(1024)
+...1024 @ 307160
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 308184
+audecGetPCM(1024)
+...1024 @ 309208
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 7012
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 310253
+audecGetPCM(1024)
+...1024 @ 311277
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 312301
+audecGetPCM(1024)
+...1024 @ 313325
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 314349
+audecGetPCM(1024)
+...1024 @ 315373
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 316397
+audecGetPCM(1024)
+...1024 @ 317421
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 318445
+audecGetPCM(1024)
+...1024 @ 319469
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 320493
+audecGetPCM(1024)
+...1024 @ 321517
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 322541
+audecGetPCM(1024)
+...1024 @ 323565
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 324589
+audecGetPCM(1024)
+...1024 @ 325613
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 7383
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 326614
+audecGetPCM(1024)
+...1024 @ 327638
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 328662
+audecGetPCM(1024)
+...1024 @ 329686
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 330710
+audecGetPCM(1024)
+...1024 @ 331734
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 332758
+audecGetPCM(1024)
+...1024 @ 333782
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 334806
+audecGetPCM(1024)
+...1024 @ 335830
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 336854
+audecGetPCM(1024)
+...1024 @ 337878
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 338902
+audecGetPCM(1024)
+...1024 @ 339926
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 340950
+audecGetPCM(1024)
+...1024 @ 341974
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 7755
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 343019
+audecGetPCM(1024)
+...1024 @ 344043
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 345067
+audecGetPCM(1024)
+...1024 @ 346091
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2560 samples ready
+audecGetPCM(1024)
+...1024 @ 347115
+audecGetPCM(1024)
+...1024 @ 348139
+audecGetPCM(1024)
+...512 @ 348651
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2496 samples ready
+audecGetPCM(1024)
+...1024 @ 349675
+audecGetPCM(1024)
+...1024 @ 350699
+audecGetPCM(1024)
+...448 @ 351147
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...1984 samples ready
+audecGetPCM(1024)
+...1024 @ 352171
+audecGetPCM(1024)
+...960 @ 353131
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...1664 samples ready
+audecGetPCM(1024)
+...1024 @ 354155
+audecGetPCM(1024)
+...640 @ 354795
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...1536 samples ready
+audecGetPCM(1024)
+...1024 @ 355819
+audecGetPCM(1024)
+...512 @ 356331
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 357355
+audecGetPCM(1024)
+...1024 @ 358379
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 8126
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 359380
+audecGetPCM(1024)
+...1024 @ 360404
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 361428
+audecGetPCM(1024)
+...1024 @ 362452
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 363476
+audecGetPCM(1024)
+...1024 @ 364500
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 365524
+audecGetPCM(1024)
+...1024 @ 366548
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 367572
+audecGetPCM(1024)
+...1024 @ 368596
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 369620
+audecGetPCM(1024)
+...1024 @ 370644
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 371668
+audecGetPCM(1024)
+...1024 @ 372692
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 373716
+audecGetPCM(1024)
+...1024 @ 374740
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 8498
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 375785
+audecGetPCM(1024)
+...1024 @ 376809
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 377833
+audecGetPCM(1024)
+...1024 @ 378857
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 379881
+audecGetPCM(1024)
+...1024 @ 380905
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 381929
+audecGetPCM(1024)
+...1024 @ 382953
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 383977
+audecGetPCM(1024)
+...1024 @ 385001
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 386025
+audecGetPCM(1024)
+...1024 @ 387049
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 388073
+audecGetPCM(1024)
+...1024 @ 389097
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 390121
+audecGetPCM(1024)
+...1024 @ 391145
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 8870
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 392191
+audecGetPCM(1024)
+...1024 @ 393215
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 394239
+audecGetPCM(1024)
+...1024 @ 395263
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 396287
+audecGetPCM(1024)
+...1024 @ 397311
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 398335
+audecGetPCM(1024)
+...1024 @ 399359
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 400383
+audecGetPCM(1024)
+...1024 @ 401407
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 402431
+audecGetPCM(1024)
+...1024 @ 403455
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 404479
+audecGetPCM(1024)
+...1024 @ 405503
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 406527
+audecGetPCM(1024)
+...1024 @ 407551
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 9241
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 408552
+audecGetPCM(1024)
+...1024 @ 409576
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 410600
+audecGetPCM(1024)
+...1024 @ 411624
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 412648
+audecGetPCM(1024)
+...1024 @ 413672
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 414696
+audecGetPCM(1024)
+...1024 @ 415720
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 416744
+audecGetPCM(1024)
+...1024 @ 417768
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 418792
+audecGetPCM(1024)
+...1024 @ 419816
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 420840
+audecGetPCM(1024)
+...1024 @ 421864
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 422888
+audecGetPCM(1024)
+...1024 @ 423912
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 9613
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 424957
+audecGetPCM(1024)
+...1024 @ 425981
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 427005
+audecGetPCM(1024)
+...1024 @ 428029
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 429053
+audecGetPCM(1024)
+...1024 @ 430077
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 431101
+audecGetPCM(1024)
+...1024 @ 432125
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 433149
+audecGetPCM(1024)
+...1024 @ 434173
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 435197
+audecGetPCM(1024)
+...1024 @ 436221
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 437245
+audecGetPCM(1024)
+...1024 @ 438269
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 439293
+audecGetPCM(1024)
+...1024 @ 440317
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 9984
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 441318
+audecGetPCM(1024)
+...1024 @ 442342
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 443366
+audecGetPCM(1024)
+...1024 @ 444390
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 445414
+audecGetPCM(1024)
+...1024 @ 446438
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 447462
+audecGetPCM(1024)
+...1024 @ 448486
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 449510
+audecGetPCM(1024)
+...1024 @ 450534
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 451558
+audecGetPCM(1024)
+...1024 @ 452582
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 453606
+audecGetPCM(1024)
+...1024 @ 454630
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 455654
+audecGetPCM(1024)
+...1024 @ 456678
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 10356
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 457723
+audecGetPCM(1024)
+...1024 @ 458747
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 459771
+audecGetPCM(1024)
+...1024 @ 460795
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 461819
+audecGetPCM(1024)
+...1024 @ 462843
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 463867
+audecGetPCM(1024)
+...1024 @ 464891
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 465915
+audecGetPCM(1024)
+...1024 @ 466939
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 467963
+audecGetPCM(1024)
+...1024 @ 468987
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 470011
+audecGetPCM(1024)
+...1024 @ 471035
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 472059
+audecGetPCM(1024)
+...1024 @ 473083
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 10727
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 474084
+audecGetPCM(1024)
+...1024 @ 475108
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 476132
+audecGetPCM(1024)
+...1024 @ 477156
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 478180
+audecGetPCM(1024)
+...1024 @ 479204
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 480228
+audecGetPCM(1024)
+...1024 @ 481252
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 482276
+audecGetPCM(1024)
+...1024 @ 483300
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 484324
+audecGetPCM(1024)
+...1024 @ 485348
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 486372
+audecGetPCM(1024)
+...1024 @ 487396
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 488420
+audecGetPCM(1024)
+...1024 @ 489444
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 11099
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 490489
+audecGetPCM(1024)
+...1024 @ 491513
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 492537
+audecGetPCM(1024)
+...1024 @ 493561
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 494585
+audecGetPCM(1024)
+...1024 @ 495609
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 496633
+audecGetPCM(1024)
+...1024 @ 497657
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 498681
+audecGetPCM(1024)
+...1024 @ 499705
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 500729
+audecGetPCM(1024)
+...1024 @ 501753
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 502777
+audecGetPCM(1024)
+...1024 @ 503801
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 504825
+audecGetPCM(1024)
+...1024 @ 505849
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 11470
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 506851
+audecGetPCM(1024)
+...1024 @ 507875
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 508899
+audecGetPCM(1024)
+...1024 @ 509923
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 510947
+audecGetPCM(1024)
+...1024 @ 511971
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 512995
+audecGetPCM(1024)
+...1024 @ 514019
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 515043
+audecGetPCM(1024)
+...1024 @ 516067
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 517091
+audecGetPCM(1024)
+...1024 @ 518115
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 519139
+audecGetPCM(1024)
+...1024 @ 520163
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 521187
+audecGetPCM(1024)
+...1024 @ 522211
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 11842
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2560 samples ready
+audecGetPCM(1024)
+...1024 @ 523256
+audecGetPCM(1024)
+...1024 @ 524280
+audecGetPCM(1024)
+...512 @ 524792
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...2304 samples ready
+audecGetPCM(1024)
+...1024 @ 525816
+audecGetPCM(1024)
+...1024 @ 526840
+audecGetPCM(1024)
+...256 @ 527096
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2240 samples ready
+audecGetPCM(1024)
+...1024 @ 528120
+audecGetPCM(1024)
+...1024 @ 529144
+audecGetPCM(1024)
+...192 @ 529336
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...1088 samples ready
+audecGetPCM(1024)
+...1024 @ 530360
+audecGetPCM(1024)
+...64 @ 530424
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 531448
+audecGetPCM(1024)
+...1024 @ 532472
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 533496
+audecGetPCM(1024)
+...1024 @ 534520
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 535544
+audecGetPCM(1024)
+...1024 @ 536568
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 537592
+audecGetPCM(1024)
+...1024 @ 538616
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 12213
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 539617
+audecGetPCM(1024)
+...1024 @ 540641
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 541665
+audecGetPCM(1024)
+...1024 @ 542689
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 543713
+audecGetPCM(1024)
+...1024 @ 544737
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 545761
+audecGetPCM(1024)
+...1024 @ 546785
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 547809
+audecGetPCM(1024)
+...1024 @ 548833
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 549857
+audecGetPCM(1024)
+...1024 @ 550881
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 551905
+audecGetPCM(1024)
+...1024 @ 552929
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 553953
+audecGetPCM(1024)
+...1024 @ 554977
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 12585
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 556022
+audecGetPCM(1024)
+...1024 @ 557046
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 558070
+audecGetPCM(1024)
+...1024 @ 559094
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 560118
+audecGetPCM(1024)
+...1024 @ 561142
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 562166
+audecGetPCM(1024)
+...1024 @ 563190
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 564214
+audecGetPCM(1024)
+...1024 @ 565238
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 566262
+audecGetPCM(1024)
+...1024 @ 567286
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 568310
+audecGetPCM(1024)
+...1024 @ 569334
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 570358
+audecGetPCM(1024)
+...1024 @ 571382
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 12956
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 572383
+audecGetPCM(1024)
+...1024 @ 573407
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 574431
+audecGetPCM(1024)
+...1024 @ 575455
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 576479
+audecGetPCM(1024)
+...1024 @ 577503
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 578527
+audecGetPCM(1024)
+...1024 @ 579551
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 580575
+audecGetPCM(1024)
+...1024 @ 581599
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 582623
+audecGetPCM(1024)
+...1024 @ 583647
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 584671
+audecGetPCM(1024)
+...1024 @ 585695
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 586719
+audecGetPCM(1024)
+...1024 @ 587743
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 13328
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 588788
+audecGetPCM(1024)
+...1024 @ 589812
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 590836
+audecGetPCM(1024)
+...1024 @ 591860
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 592884
+audecGetPCM(1024)
+...1024 @ 593908
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 594932
+audecGetPCM(1024)
+...1024 @ 595956
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 596980
+audecGetPCM(1024)
+...1024 @ 598004
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 599028
+audecGetPCM(1024)
+...1024 @ 600052
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 601076
+audecGetPCM(1024)
+...1024 @ 602100
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 603124
+audecGetPCM(1024)
+...1024 @ 604148
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 13699
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 605149
+audecGetPCM(1024)
+...1024 @ 606173
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 607197
+audecGetPCM(1024)
+...1024 @ 608221
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 609245
+audecGetPCM(1024)
+...1024 @ 610269
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 611293
+audecGetPCM(1024)
+...1024 @ 612317
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 613341
+audecGetPCM(1024)
+...1024 @ 614365
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 615389
+audecGetPCM(1024)
+...1024 @ 616413
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 617437
+audecGetPCM(1024)
+...1024 @ 618461
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 619485
+audecGetPCM(1024)
+...1024 @ 620509
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 14071
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 621555
+audecGetPCM(1024)
+...1024 @ 622579
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 623603
+audecGetPCM(1024)
+...1024 @ 624627
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 625651
+audecGetPCM(1024)
+...1024 @ 626675
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 627699
+audecGetPCM(1024)
+...1024 @ 628723
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 629747
+audecGetPCM(1024)
+...1024 @ 630771
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 631795
+audecGetPCM(1024)
+...1024 @ 632819
+audecDecode()
+  DecodeData()
+...2048 samples ready
+audecGetPCM(1024)
+...1024 @ 633843
+audecGetPCM(1024)
+...1024 @ 634867
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...2816 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 635891
+audecGetPCM(1024)
+...1024 @ 636915
+audecGetPCM(1024)
+...768 @ 637683
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128) 14460
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+audecDecode()
+  DecodeData()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeData()
+...1792 samples ready
+...NO_MORE_FRAME
+audecGetPCM(1024)
+...1024 @ 638710
+audecGetPCM(1024)
+...768 @ 639478
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(128)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(57)
+audecDecode()
+  DecodeInfo()
+...ONHOLD
+audecInput(0)
+No more input
+audecDecode()
+  DecodeInfo()
+...ONHOLD

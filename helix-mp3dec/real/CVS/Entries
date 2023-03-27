@@ -1,0 +1,16 @@
+/assembly.h/1.2/Wed May 10 22:49:31 2006//
+/bitstream.c/1.1/Tue May  9 23:33:45 2006//
+/buffers.c/1.1/Tue May  9 23:33:45 2006//
+/coder.h/1.1/Tue May  9 23:33:45 2006//
+/dct32.c/1.1/Tue May  9 23:33:45 2006//
+/dequant.c/1.1/Tue May  9 23:33:45 2006//
+/dqchan.c/1.1/Tue May  9 23:33:45 2006//
+/huffman.c/1.1/Tue May  9 23:33:45 2006//
+/hufftabs.c/1.1/Tue May  9 23:33:45 2006//
+/imdct.c/1.1/Tue May  9 23:33:45 2006//
+/polyphase.c/1.1/Tue May  9 23:33:45 2006//
+/scalfact.c/1.1/Tue May  9 23:33:45 2006//
+/stproc.c/1.1/Tue May  9 23:33:45 2006//
+/subband.c/1.1/Tue May  9 23:33:45 2006//
+/trigtabs.c/1.1/Tue May  9 23:33:45 2006//
+D

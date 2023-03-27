@@ -1,0 +1,162 @@
+/*!
+** \file wma.c
+** Author: Phil Brooks
+**
+** Description:
+** WMA decode
+**
+** Copyright (C) 2006 by Musicnet Inc.
+*/
+/*
+ * $Log: wma.c,v $
+ * Revision 1.1.1.1  2006/04/21 16:30:29  pbrooks
+ * Initial checkin of embedded player files.
+ *
+ *
+ *
+ */
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <sys/ioctl.h>
+#include <fcntl.h>
+#include <sys/stat.h>
+#include <sys/mman.h>
+
+#include "WMA_Dec_Emb_x86.h"
+#include "ampdll.h"
+#include "apdpcm.h"
+#include "apd.h"
+#include "apdutil.h"
+
+#include "../libmad/mad.h"
+#include "../libmad/decoder.h"
+#include "../libmad/fixed.h"
+
+int apdWmadecode(ACard *pCard, SongInfo *pInfo) 
+{
+
+    /* WMA stuff */
+    tWMAFileHdrState hdrstate;
+    tWMAFileHeader hdr;
+    tWMAFileStatus rc;
+    int code = 0;
+    char logstr[256] = "";
+    short pLeft [MAX_SAMPLES * 2];
+    short *pRight = NULL;
+    
+    /* initialise WMA stuff */
+    memset ((void *)&hdrstate, 0, sizeof(hdrstate));
+//    memset ((void *)&(zoneinfo[zoneindex].state), 0, sizeof(zoneinfo[zoneindex].state));
+//    memset ((void *)&hdr, 0, sizeof(hdr));
+
+    rc = WMAFileIsWMA (&hdrstate);
+    if(rc != cWMA_NoErr) 
+    {
+        sprintf(logstr, "File is not encrypted WMA: %s", pInfo->sFilename);
+        apdLogPrint("PF52", APD_LOG_ERROR, logstr);
+        return DECODE_DECODEERROR;
+    }
+        
+    rc = WMAFileDecodeInit (&hdrstate);
+    if(rc != cWMA_NoErr) 
+    {
+        sprintf(logstr, "Unable to initialise WMA decoder");
+        apdLogPrint("PF53", APD_LOG_ERROR, logstr);
+        return DECODE_DECODEERROR;
+    }
+
+    /* get header information */
+    rc = WMAFileDecodeInfo (pInfo->wma.state, &hdr);
+    if(rc != cWMA_NoErr) 
+    {
+        sprintf(logstr, "Unable to get WMA header info: %s", pInfo->sFilename);
+        apdLogPrint("PF55", APD_LOG_ERROR, logstr);
+        /* close WMA stuff */
+        WMAFileDecodeClose(&(pInfo->wma.state));
+        return DECODE_DECODEERROR;
+    }
+
+    /* check to make sure we don't have DRM in the file - PF doesn't handle DRM yet */
+    if(hdr.has_DRM) 
+    {
+        sprintf(logstr, "Encrytped WMA file has DRM - cannot handle: %s", pInfo->sFilename);
+        apdLogPrint("PF57", APD_LOG_ERROR, logstr);
+        /* close WMA stuff */
+        WMAFileDecodeClose(&(pInfo->wma.state));
+        return DECODE_DECODEERROR;
+    }
+
+    /* allocate a WMA PCM pre-buffer */
+    pInfo->wma.wmabuf = (unsigned char *) malloc(MADPCM_SAMPLES * 8);
+    if (pInfo->wma.wmabuf == NULL) {
+        apdLogPrint("PF58",APD_LOG_ERROR, "Cannot allocate WMA PCM prebuffer");
+        /* close WMA stuff */
+        WMAFileDecodeClose(&(pInfo->wma.state));
+        return DECODE_DECODEERROR;
+    }
+    pInfo->wma.wmabuf_bytes = 0;
+    
+    /* now do the actual decoding */
+    while (TRUE) 
+    {
+        /* check to see if this thread needs to stop */
+        if (pInfo->stopflag) {
+            pInfo->stopflag = FALSE;
+            code = 2;
+            break;
+        }
+    
+        rc = WMAFileDecodeData (pInfo->wma.state);
+        if(rc != cWMA_NoErr) 
+        {
+            if ( rc == cWMA_NoMoreFrames || rc == cWMA_Failed ) {
+                code = 0;       // normal exit
+            } else {
+                code = 1;       // error decoding data
+            }
+            break;
+        }
+    
+        while (TRUE) 
+        {
+
+            tWMA_U32 num_samples;
+            num_samples = WMAFileGetPCM (pInfo->wma.state, 
+                             pLeft, pRight, MAX_SAMPLES);
+
+            if (num_samples == 0) 
+            {
+                /* no more, so on with the decoding... */
+                break;
+            }
+
+            playpfc_pcmdata(pInfo, pCard, (unsigned char *) pLeft, sizeof(short) * num_samples * hdr.num_channels); 
+        }
+    }
+
+    /* make sure we flush any remaining WMA PCM data sitting in the prebuffer */
+    playpfc_flushpcm(pInfo, pCard);
+    
+    /* close WMA stuff */
+    WMAFileDecodeClose(&(pInfo->wma.state));
+        
+    /* check return code of the decode to see how function should return */
+    if (code == 0) 
+    {
+        return DECODE_FINISHED;
+    } 
+    else if (code == 1) 
+    {
+        return DECODE_DECODEERROR;
+    } 
+    else if (code == 2) 
+    {
+        return DECODE_STOP;
+    } 
+    else 
+    {
+        return DECODE_FINISHED;
+    }
+}

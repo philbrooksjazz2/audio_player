@@ -1,0 +1,7 @@
+audecInit(0x0161, 2, 44100, 8003, 2973, 16, 00000003, 000F, 44100, 16, 2)
+audecInput(128) 0
+audecDecode()
+  DecodeInfo()
+  DecodeData()
+audecDecode()
+  DecodeData()
